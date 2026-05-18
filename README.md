@@ -4,196 +4,90 @@
 
 ### Building things most won't understand.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Building+AI+Agents;Designing+Autonomous+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Building+AI+Agents;Shipping+Ideas+Into+Reality" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=atharvmantri&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=atharvmantri&style=for-the-badge&color=7C3AED" />
 
 </div>
 
 ---
 
-# About
+## ⚡ About Me
 
-I'm a 15-year-old developer focused on building intelligent systems, AI-powered tooling, and scalable full stack applications.
+```txt
+> 15
+> full stack developer
+> AI/ML engineer
+> hackathon winner
+> interned at a Yash Technologies subsidiary
+> building systems, not side projects
+```
 
-My interests currently revolve around:
-
-- AI agents
-- autonomous systems
-- developer tooling
-- high-performance architectures
-- model training
-- applied machine learning
-- backend systems
-- startup-oriented products
-
-I enjoy building products that combine strong engineering with real-world utility.
+- Currently exploring AI agents, autonomous systems, and high-performance tooling.
+- I enjoy building products that feel slightly ahead of their time.
+- Interested in startups, infrastructure, intelligence systems, and developer tools.
 
 ---
 
-# Current Direction
+## 🧠 Current Focus
 
 ```txt
-Building intelligent systems.
-Exploring AI agents.
-Designing scalable architectures.
-Shipping fast.
-Learning aggressively.
-```
-
----
-
-# Featured Projects
-
-## ShadowKey
-
-Security-focused infrastructure project designed around privacy, control, and modern system architecture.
-
-Focused on:
-- authentication systems
-- secure workflows
-- backend architecture
-- operational security concepts
-
-Repository:
-```txt
-https://github.com/atharvmantri/ShadowKey
-```
-
----
-
-## Cognitive
-
-Experimental AI-focused platform exploring intelligent interactions and advanced workflow automation.
-
-Focused on:
-- AI integrations
-- intelligent workflows
-- automation systems
-- future-facing interfaces
-
-Repository:
-```txt
-https://github.com/atharvmantri/Cognitive
-```
-
----
-
-## WebSniper
-
-Web automation and operational tooling project engineered for speed and efficiency.
-
-Focused on:
-- automation
-- scraping systems
-- web operations
-- performance optimization
-
-Repository:
-```txt
-https://github.com/atharvmantri/Websniper
-```
-
----
-
-# Tech Stack
-
-## Languages
-
-```txt
-Python
-JavaScript
-SQL
-```
-
-## Frontend
-
-```txt
-React Native
-TailwindCSS
-HTML
-CSS
-```
-
-## Backend
-
-```txt
-Node.js
-Flask
-Flask-SQLAlchemy
-REST APIs
-```
-
-## AI / ML
-
-```txt
-TensorFlow
+AI Agents
+Autonomous Systems
+Full Stack Architectures
 Model Training
-Data Processing
-Machine Learning Systems
-```
-
-## Database & Tools
-
-```txt
-MySQL
-SQLite
-Git
-GitHub
-Linux
+Developer Tooling
 ```
 
 ---
 
-# Engineering Philosophy
+## 🚀 Highlighted Projects
 
-```txt
-Code should create leverage.
+### 🔐 ShadowKey
+Advanced security-focused project engineered around privacy, control, and modern system architecture.
 
-Good systems scale.
-Good products survive.
-Good engineering compounds.
-```
+### 🧠 Cognitive
+AI-focused experimentation platform exploring intelligent workflows and smart interactions.
+
+### 🌐 WebSniper
+High-speed web tooling focused on automation, scraping, and operational efficiency.
 
 ---
 
-# GitHub Statistics
+## 🛠 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,tailwind,flask,mysql,sqlite,git,github,linux,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvmantri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmantri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvmantri&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
 
 </div>
 
 ---
 
-# Currently Exploring
-
-```txt
-AI Agents
-Multi-Agent Systems
-Inference Optimization
-Developer Infrastructure
-Autonomous Workflows
-System Design
-```
-
----
-
-# Contact
+## 🌐 Connect
 
 <div align="center">
 
 <a href="mailto:work@atharv.me">
-<img src="https://img.shields.io/badge/Email-work@atharv.me-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/email-work@atharv.me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://atharv.me">
-<img src="https://img.shields.io/badge/Portfolio-atharv.me-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/portfolio-atharv.me-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -204,7 +98,6 @@ System Design
 
 ```txt
 I don't just write code.
-
 I build leverage.
 ```
 
