@@ -84,6 +84,10 @@ For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-
 
 [Request a paid scope](mailto:work@atharv.me?subject=Paid%20build%20request)
 
+[Request a 2–4 hour paid micro-sprint](mailto:work@atharv.me?subject=Paid%20micro-sprint%20brief) — one reproducible React/TypeScript fix, small frontend section, or bounded QA pass; indicative INR 2,500–5,000, no unpaid trial.
+
+[View the agency overflow micro-sprint proof](https://www.atharv.me/demos/agency-overflow.html) — private sample with the scope boundary, handoff checklist, and acceptance gate.
+
 [View the hospitality pilot demo](https://www.atharv.me/demos/hospitality-starter.html) - a directly relevant room/booking sample with the same fixed-scope, tested-handoff model.
 
 [Read the project-based engineering profile](https://github.com/atharvmantri/Portfolio/blob/main/PROJECT_PROFILE.md) — shipped-work evidence, engagement process, starter prices, and transparent experience context.
