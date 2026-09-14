@@ -84,6 +84,8 @@ For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-
 
 [Request a paid scope](mailto:work@atharv.me?subject=Paid%20build%20request)
 
+[View the hospitality pilot demo](https://www.atharv.me/demos/hospitality-starter.html) - a directly relevant room/booking sample with the same fixed-scope, tested-handoff model.
+
 [Read the project-based engineering profile](https://github.com/atharvmantri/Portfolio/blob/main/PROJECT_PROFILE.md) — shipped-work evidence, engagement process, starter prices, and transparent experience context.
 
 [View the business-group/property pilot demo](https://www.atharv.me/demos/business-group-starter.html) — an indicative INR 5,000 first milestone with a clear scope, tested handoff, and no unpaid test.
