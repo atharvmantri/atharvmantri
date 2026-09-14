@@ -78,6 +78,14 @@ High-speed web tooling focused on automation, scraping, and operational efficien
 
 ---
 
+## 💼 Available for Paid Builds
+
+For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-integration work, send the goal, current state, and deadline. Scope, price, and delivery are agreed before work begins.
+
+[Request a paid scope](mailto:work@atharv.me?subject=Paid%20build%20request)
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
