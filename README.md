@@ -84,6 +84,8 @@ For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-
 
 [Request a paid scope](mailto:work@atharv.me?subject=Paid%20build%20request)
 
+[Read the project-based engineering profile](https://github.com/atharvmantri/Portfolio/blob/main/PROJECT_PROFILE.md) — shipped-work evidence, engagement process, starter prices, and transparent experience context.
+
 ---
 
 ## 🌐 Connect
