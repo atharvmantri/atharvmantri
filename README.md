@@ -90,6 +90,10 @@ For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-
 
 [View the hospitality pilot demo](https://www.atharv.me/demos/hospitality-starter.html) - a directly relevant room/booking sample with the same fixed-scope, tested-handoff model.
 
+[Run the brief through ScopeSignal](https://scopesignal.vercel.app/) - a local-first qualifier for deliverables, acceptance checks, missing decisions, and risk signals before a first milestone.
+
+[Watch the narrated ScopeSignal demo](https://github.com/atharvmantri/ScopeSignal/releases/download/demo-2026-09-15/ScopeSignal-demo.mp4) - a four-minute walkthrough of the product and its paid-slice boundary.
+
 [Read the project-based engineering profile](https://github.com/atharvmantri/Portfolio/blob/main/PROJECT_PROFILE.md) — shipped-work evidence, engagement process, starter prices, and transparent experience context.
 
 [View the business-group/property pilot demo](https://www.atharv.me/demos/business-group-starter.html) — an indicative INR 5,000 first milestone with a clear scope, tested handoff, and no unpaid test.
