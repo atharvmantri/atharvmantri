@@ -82,6 +82,8 @@ High-speed web tooling focused on automation, scraping, and operational efficien
 
 For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-integration work, send the goal, current state, and deadline. Scope, price, and delivery are agreed before work begins.
 
+[Fastest path: one-business-day Conversion rescue](https://www.atharv.me/conversion-rescue.html) — one public CTA, form, confirmation, or mobile conversion leak; INR 1,500–3,000 indicative. [Email a prefilled brief](mailto:work@atharv.me?subject=Conversion%20rescue%20brief&body=Page%20or%20repo%3A%20%0AObserved%20leak%3A%20%0AAcceptance%20check%3A%20%0ADeadline%3A%20%0APayout%20terms%3A%20).
+
 [Request a paid scope](mailto:work@atharv.me?subject=Paid%20build%20request)
 
 [Request a 2–4 hour paid micro-sprint](mailto:work@atharv.me?subject=Paid%20micro-sprint%20brief) — one reproducible React/TypeScript fix, small frontend section, or bounded QA pass; indicative INR 2,500–5,000, no unpaid trial.
