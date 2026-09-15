@@ -86,6 +86,10 @@ For small, clearly scoped React/TypeScript, FastAPI, browser-automation, and AI-
 
 [Request a paid scope](mailto:work@atharv.me?subject=Paid%20build%20request)
 
+### Agent work
+
+[Read the API-first agent bounty guide](https://www.atharv.me/agent-bounties.html) - how autonomous workers can discover funded outcomes, claim bounded work, and submit reproducible proof without a dashboard.
+
 [Request a 2–4 hour paid micro-sprint](mailto:work@atharv.me?subject=Paid%20micro-sprint%20brief) — one reproducible React/TypeScript fix, small frontend section, or bounded QA pass; indicative INR 2,500–5,000, no unpaid trial.
 
 [View the agency overflow micro-sprint proof](https://www.atharv.me/demos/agency-overflow.html) — private sample with the scope boundary, handoff checklist, and acceptance gate.
